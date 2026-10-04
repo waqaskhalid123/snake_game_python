@@ -1256,13 +1256,17 @@
 		<data>
 		GBqdjL2eeFxpGUmsJTamHaS0USo=
 		</data>
+		<key>Resources/assets/icon.png</key>
+		<data>
+		UZlNpD8G61s7yKlT65kEoovOZoI=
+		</data>
 		<key>Resources/base_library.zip</key>
 		<data>
-		vm+8a1ZD3uTGWeg/45QwJ7sihNU=
+		qQkPdcChQsl42H4ruwiOxSeDESo=
 		</data>
-		<key>Resources/icon-windowed.icns</key>
+		<key>Resources/icon.icns</key>
 		<data>
-		eEHOuYpZLB0vKGVIWGZOh5rH8+o=
+		rnHe1TmUJtd0aSCcJdC9lPmje7k=
 		</data>
 		<key>Resources/tcl8/8.4/platform-1.0.19.tm</key>
 		<data>
@@ -1304,6 +1308,11 @@
 		<dict>
 			<key>symlink</key>
 			<string>../Resources/_tk_data</string>
+		</dict>
+		<key>Frameworks/assets</key>
+		<dict>
+			<key>symlink</key>
+			<string>../Resources/assets</string>
 		</dict>
 		<key>Frameworks/base_library.zip</key>
 		<dict>
@@ -3934,18 +3943,25 @@
 			IdJZTIMZ8UxHoPC/PSrKvMgsmrjYSmT6PLYIx+dfWcM=
 			</data>
 		</dict>
+		<key>Resources/assets/icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7j2z35V5O68XybMgzWypxIs3uCSQOLMt0WnqEcV2UlA=
+			</data>
+		</dict>
 		<key>Resources/base_library.zip</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BX55aouMTkDlIR9Y5tDC6gLMsSxEpVyupx245UimAus=
+			dGjSSDX06c0MSPaEqsFPXdwMXzhJ0GmZQHqZyvEFCN8=
 			</data>
 		</dict>
-		<key>Resources/icon-windowed.icns</key>
+		<key>Resources/icon.icns</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uQo7VuWRab4Phv4EEGmfQsyqFqDIXZgO8OtgaAMvCzY=
+			ZyVboSXKTDms943Yr4uYZ8kTfEFVU9xtqt8FulBV59U=
 			</data>
 		</dict>
 		<key>Resources/libbz2.dylib</key>
